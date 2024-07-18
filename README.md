@@ -8,7 +8,7 @@
 </p>
 
 ## Installation
-git clone git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog
+git clone [git@github.com:JeffreyWay/Laravel-From-Scratch-Blog-Project.git blog](https://github.com/asahani31/techup_lab_assignment.git)
 composer install
 php artisan migrate --seed
 
